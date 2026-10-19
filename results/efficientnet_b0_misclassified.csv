@@ -1,0 +1,6 @@
+path,label,split,pred
+data/raw/Early/Snap_103 - Copy.jpg,Early,test,Benign
+data/raw/Benign/Snap_140.jpg,Benign,test,Early
+data/raw/Benign/Snap_121 (2).jpg,Benign,test,Early
+data/raw/Benign/Snap_135 (2).jpg,Benign,test,Early
+data/raw/Early/Snap_267.jpg,Early,test,Benign

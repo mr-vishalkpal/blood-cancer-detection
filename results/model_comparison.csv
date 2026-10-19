@@ -1,0 +1,4 @@
+model,accuracy,macro_f1,macro_auc,sensitivity_cancer,specificity_benign,params_millions
+simple_cnn,0.9937,0.9926,0.9999,0.995,0.987,0.3904
+resnet50,1.0,1.0,1.0,1.0,1.0,23.5162
+efficientnet_b0,0.9895,0.9876,0.9999,0.995,0.961,4.0127

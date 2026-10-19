@@ -1,0 +1,6 @@
+venv/
+data/
+models/resnet50_best.pth
+__pycache__/
+.ipynb_checkpoints/
+*.zip
