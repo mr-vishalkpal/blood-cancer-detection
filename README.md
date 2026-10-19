@@ -6,6 +6,11 @@ An AI-based system that analyses microscopic blood cell images, classifies them 
 
 > **Disclaimer:** This project is for **academic and research purposes only**. It is **not** a medical diagnosis tool and must never replace evaluation by a qualified professional.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+
+**Live demo:** [YOUR-APP-LINK](https://blood-cancer-detection-vqwhgjgbdn7syyuwappcchj.streamlit.app/)
+**Source code:** [github.com/mr-vishalkpal/blood-cancer-detection](https://github.com/mr-vishalkpal/blood-cancer-detection)
+
 ---
 
 ## Table of contents
